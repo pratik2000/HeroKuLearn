@@ -23,6 +23,10 @@
     "graphql": "^15.5.1",
     "mongoose": "^5.13.3",
     "react-icons": "^4.2.0",
+<<<<<<< HEAD
    "concurrently": "^6.2.0",
+=======
+	"concurrently": "^6.2.0",
+>>>>>>> 81c775e4d63130486a2b94e8ab434035fe354fa4
   },
 }
